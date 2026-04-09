@@ -37,7 +37,7 @@ This project presents testing scenarios created for different types of software 
 ![API Testing](assets/screenshots/api-testing.png)
 
 ### Performance Testing Example
-![Performance Testing](assets/screenshots/performance-testing.png)
+![Performance Testing](assets/screenshots/performance-testing.jfif)
 
 ## Notes
 This repository is intended for portfolio and educational showcase purposes. It focuses on testing design and test scenario documentation rather than a full deployable software product.
